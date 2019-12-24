@@ -28,6 +28,6 @@ public class CreatingVariables {
 		System.out.println("Hopefully you have more than $" + checking + "!");
 		System.out.println("My name's " + title + " " + firstName + " " + lastName);
 		
-		System.out.println("Variables, int: " + i + ") double: " + d + ") string: " + s );
+		System.out.println("Variables, int: " + i + ", double: " + d + ", string: " + s );
 	}
 }
